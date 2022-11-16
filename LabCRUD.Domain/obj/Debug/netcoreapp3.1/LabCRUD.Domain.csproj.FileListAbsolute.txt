@@ -1,0 +1,10 @@
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Domain\bin\Debug\netcoreapp3.1\LabCRUD.Domain.deps.json
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Domain\bin\Debug\netcoreapp3.1\LabCRUD.Domain.dll
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Domain\bin\Debug\netcoreapp3.1\LabCRUD.Domain.pdb
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Domain\obj\Debug\netcoreapp3.1\LabCRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Domain\obj\Debug\netcoreapp3.1\LabCRUD.Domain.AssemblyInfoInputs.cache
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Domain\obj\Debug\netcoreapp3.1\LabCRUD.Domain.AssemblyInfo.cs
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Domain\obj\Debug\netcoreapp3.1\LabCRUD.Domain.csproj.CoreCompileInputs.cache
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Domain\obj\Debug\netcoreapp3.1\LabCRUD.Domain.dll
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Domain\obj\Debug\netcoreapp3.1\LabCRUD.Domain.pdb
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Domain\obj\Debug\netcoreapp3.1\LabCRUD.Domain.csproj.AssemblyReference.cache

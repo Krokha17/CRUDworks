@@ -1,0 +1,15 @@
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Service\bin\Debug\netcoreapp3.1\LabCRUD.DLL.deps.json
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Service\bin\Debug\netcoreapp3.1\LabCRUD.DLL.dll
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Service\bin\Debug\netcoreapp3.1\LabCRUD.DLL.pdb
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Service\bin\Debug\netcoreapp3.1\LabCRUD.DAL.dll
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Service\bin\Debug\netcoreapp3.1\LabCRUD.Domain.dll
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Service\bin\Debug\netcoreapp3.1\LabCRUD.DAL.pdb
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Service\bin\Debug\netcoreapp3.1\LabCRUD.Domain.pdb
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Service\obj\Debug\netcoreapp3.1\LabCRUD.DLL.csproj.AssemblyReference.cache
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Service\obj\Debug\netcoreapp3.1\LabCRUD.DLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Service\obj\Debug\netcoreapp3.1\LabCRUD.DLL.AssemblyInfoInputs.cache
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Service\obj\Debug\netcoreapp3.1\LabCRUD.DLL.AssemblyInfo.cs
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Service\obj\Debug\netcoreapp3.1\LabCRUD.DLL.csproj.CoreCompileInputs.cache
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Service\obj\Debug\netcoreapp3.1\LabCRUD.DLL.csproj.CopyComplete
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Service\obj\Debug\netcoreapp3.1\LabCRUD.DLL.dll
+E:\LaboratoryWork2\Lab2CRUD\LabCRUD\LabCRUD.Service\obj\Debug\netcoreapp3.1\LabCRUD.DLL.pdb
