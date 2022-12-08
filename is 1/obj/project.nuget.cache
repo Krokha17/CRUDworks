@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "p1OxpxLw4qpxIuC5xc2TbNBH05AmVM47KTdngocO8XM3PCO2JooKyWICzK+JOx4Vax33jcQqMWR1s8+HEA9u3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pyrik\\Documents\\GitHub\\pyrikova\\pyrikova.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pyrik\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\pyrik\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\pyrik\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\pyrik\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\pyrik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\pyrik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
