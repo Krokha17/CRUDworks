@@ -61,7 +61,9 @@
 
 {
     [ApiController]
+ 
     [Route("/admin")]
+    
     public class AdminController : ControllerBase
     {
         [HttpPut]
